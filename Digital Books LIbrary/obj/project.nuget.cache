@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zAJQLHpOU6peNgYXi2Kj7hbDIdY72wrN2LR1924rPKlyL7j6Kny5y6jtw1MAXFSvFhqDoP29aoSOVZc+rLAohw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tinoj\\OneDrive\\Desktop\\Additional\\Digital Books LIbrary\\Digital Books LIbrary\\Digital Books LIbrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tinoj\\.nuget\\packages\\documentformat.openxml\\2.11.3\\documentformat.openxml.2.11.3.nupkg.sha512",
+    "C:\\Users\\tinoj\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\tinoj\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

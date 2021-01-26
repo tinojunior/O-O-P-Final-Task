@@ -1,0 +1,34 @@
+C:\Users\Argus\Downloads\Digital Books LIbrary\Digital Books LIbrary\bin\Debug\netcoreapp3.1\Digital Books LIbrary.exe
+C:\Users\Argus\Downloads\Digital Books LIbrary\Digital Books LIbrary\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\Argus\Downloads\Digital Books LIbrary\Digital Books LIbrary\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Argus\Downloads\Digital Books LIbrary\Digital Books LIbrary\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\Argus\Downloads\Digital Books LIbrary\Digital Books LIbrary\obj\Debug\netcoreapp3.1\Digital Books LIbrary.csprojAssemblyReference.cache
+C:\Users\Argus\Downloads\Digital Books LIbrary\Digital Books LIbrary\obj\Debug\netcoreapp3.1\Digital Books LIbrary.AssemblyInfoInputs.cache
+C:\Users\Argus\Downloads\Digital Books LIbrary\Digital Books LIbrary\obj\Debug\netcoreapp3.1\Digital Books LIbrary.AssemblyInfo.cs
+C:\Users\Argus\Downloads\Digital Books LIbrary\Digital Books LIbrary\obj\Debug\netcoreapp3.1\Digital Books LIbrary.csproj.CoreCompileInputs.cache
+C:\Users\Argus\Downloads\Digital Books LIbrary\Digital Books LIbrary\obj\Debug\netcoreapp3.1\Digital Books LIbrary.csproj.CopyComplete
+C:\Users\Argus\Downloads\Digital Books LIbrary\Digital Books LIbrary\obj\Debug\netcoreapp3.1\Digital Books LIbrary.dll
+C:\Users\Argus\Downloads\Digital Books LIbrary\Digital Books LIbrary\obj\Debug\netcoreapp3.1\Digital Books LIbrary.pdb
+C:\Users\Argus\Downloads\Digital Books LIbrary\Digital Books LIbrary\bin\Debug\netcoreapp3.1\Digital Books LIbrary.deps.json
+C:\Users\Argus\Downloads\Digital Books LIbrary\Digital Books LIbrary\bin\Debug\netcoreapp3.1\Digital Books LIbrary.runtimeconfig.json
+C:\Users\Argus\Downloads\Digital Books LIbrary\Digital Books LIbrary\bin\Debug\netcoreapp3.1\Digital Books LIbrary.runtimeconfig.dev.json
+C:\Users\Argus\Downloads\Digital Books LIbrary\Digital Books LIbrary\bin\Debug\netcoreapp3.1\Digital Books LIbrary.dll
+C:\Users\Argus\Downloads\Digital Books LIbrary\Digital Books LIbrary\bin\Debug\netcoreapp3.1\Digital Books LIbrary.pdb
+C:\Users\Argus\Downloads\Digital Books LIbrary\Digital Books LIbrary\obj\Debug\netcoreapp3.1\Digital Books LIbrary.genruntimeconfig.cache
+C:\Users\tinoj\OneDrive\Desktop\Additional\Digital Books LIbrary\Digital Books LIbrary\bin\Debug\netcoreapp3.1\Digital Books LIbrary.exe
+C:\Users\tinoj\OneDrive\Desktop\Additional\Digital Books LIbrary\Digital Books LIbrary\bin\Debug\netcoreapp3.1\Digital Books LIbrary.deps.json
+C:\Users\tinoj\OneDrive\Desktop\Additional\Digital Books LIbrary\Digital Books LIbrary\bin\Debug\netcoreapp3.1\Digital Books LIbrary.runtimeconfig.json
+C:\Users\tinoj\OneDrive\Desktop\Additional\Digital Books LIbrary\Digital Books LIbrary\bin\Debug\netcoreapp3.1\Digital Books LIbrary.runtimeconfig.dev.json
+C:\Users\tinoj\OneDrive\Desktop\Additional\Digital Books LIbrary\Digital Books LIbrary\bin\Debug\netcoreapp3.1\Digital Books LIbrary.dll
+C:\Users\tinoj\OneDrive\Desktop\Additional\Digital Books LIbrary\Digital Books LIbrary\bin\Debug\netcoreapp3.1\Digital Books LIbrary.pdb
+C:\Users\tinoj\OneDrive\Desktop\Additional\Digital Books LIbrary\Digital Books LIbrary\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\tinoj\OneDrive\Desktop\Additional\Digital Books LIbrary\Digital Books LIbrary\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\tinoj\OneDrive\Desktop\Additional\Digital Books LIbrary\Digital Books LIbrary\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\tinoj\OneDrive\Desktop\Additional\Digital Books LIbrary\Digital Books LIbrary\obj\Debug\netcoreapp3.1\Digital Books LIbrary.csprojAssemblyReference.cache
+C:\Users\tinoj\OneDrive\Desktop\Additional\Digital Books LIbrary\Digital Books LIbrary\obj\Debug\netcoreapp3.1\Digital Books LIbrary.AssemblyInfoInputs.cache
+C:\Users\tinoj\OneDrive\Desktop\Additional\Digital Books LIbrary\Digital Books LIbrary\obj\Debug\netcoreapp3.1\Digital Books LIbrary.AssemblyInfo.cs
+C:\Users\tinoj\OneDrive\Desktop\Additional\Digital Books LIbrary\Digital Books LIbrary\obj\Debug\netcoreapp3.1\Digital Books LIbrary.csproj.CoreCompileInputs.cache
+C:\Users\tinoj\OneDrive\Desktop\Additional\Digital Books LIbrary\Digital Books LIbrary\obj\Debug\netcoreapp3.1\Digital Books LIbrary.csproj.CopyComplete
+C:\Users\tinoj\OneDrive\Desktop\Additional\Digital Books LIbrary\Digital Books LIbrary\obj\Debug\netcoreapp3.1\Digital Books LIbrary.dll
+C:\Users\tinoj\OneDrive\Desktop\Additional\Digital Books LIbrary\Digital Books LIbrary\obj\Debug\netcoreapp3.1\Digital Books LIbrary.pdb
+C:\Users\tinoj\OneDrive\Desktop\Additional\Digital Books LIbrary\Digital Books LIbrary\obj\Debug\netcoreapp3.1\Digital Books LIbrary.genruntimeconfig.cache

@@ -1,0 +1,235 @@
+[
+{
+	"AuthorID":1,
+	"Id":1,
+	"Name":"Juilis Caesar",
+	"Genre":"Suspense",
+	"Year":1868,
+	"Description":"Juilis was a great Leader"
+},
+{
+	"AuthorID":1,
+	"Id":2,
+	"Name":"Romeo and Juliet",
+	"Genre":"Romanace",
+	"Year":1802,
+	"Description":"Its a popular love-story"
+},
+{
+	"AuthorID":1,
+	"Id":3,
+	"Name":"Fifty Shades Of Grey",
+	"Genre":"Romance",
+	"Year":1923,
+	"Description":"Overrated movie, good book"
+},
+{
+	"AuthorID":1,
+	"Id":4,
+	"Name":"Nakata",
+	"Genre":"Thriller",
+	"Year":1956,
+	"Description":"The African Leader"
+},
+{
+	"AuthorID":2,
+	"Id":6,
+	"Name":"The Lion King",
+	"Genre":"Drama",
+	"Year":1956,
+	"Description":"Sequeal of greatness"
+
+},
+{
+	"AuthorID":3,
+	"Id":7,
+	"Name":"Young and Fly",
+	"Genre":"Drama",
+	"Year":1968,
+	"Description":"Greatness of Stormzy"
+},
+{
+	"AuthorID":6,
+	"Id":8,
+	"Name":"Super Fly",
+	"Genre":"Suspense",
+	"Year":1968,
+	"Description":"It is super fly"
+},
+{
+	"AuthorID":9,
+	"Id":9,
+	"Name":"Igor Theme",
+	"Genre":"Suspense",
+	"Year":1999,
+	"Description":"Working on the weekend like usual"
+},
+{
+	"AuthorID":10,
+	"Id":10,
+	"Name":"Cold",
+	"Genre":"Suspense",
+	"Year":1998,
+	"Description":"Taking time or time-out"
+},
+{
+	"AuthorID":11,
+	"Id":11,
+	"Name":"Unveiling of the Distance",
+	"Genre":"Drama",
+	"Year":1988,
+	"Description":"Wind is the only thing that makes the distance worse"
+},
+{
+	"AuthorID":13,
+	"Id":12,
+	"Name":"Princess Diana",
+	"Genre":"Romance",
+	"Year":1888,
+	"Description":"Book of royalty"
+},
+{
+	"AuthorID":18,
+	"Id":13,					
+	"Name":"Major Prices and LightWeight",
+	"Genre":"Drama",
+	"Year":1958,
+	"Description":"We have to go in sepate ways"
+},
+{
+	"AuthorID":29,
+	"Id":14,
+	"Name":"You reap what you sow",
+	"Genre":"Suspense",
+	"Year":1838,
+	"Description":"You only get what you give"
+},
+{
+	"AuthorID":17,
+	"Id":15,
+	"Name":"I am legend",
+	"Genre":"Thriller",
+	"Year":1998,
+	"Description":"Will Smith at his finest"
+},
+{
+	"AuthorID":21,
+	"Id":16,
+	"Name":"Cry me a river",
+	"Genre":"Drama",
+	"Year":1978,
+	"Description":"Poetry at its finest"
+},
+{
+	"AuthorID":1,
+	"Id":17,
+	"Name":"Talk the talk",
+	"Genre":"Suspense",
+	"Year":1988,
+	"Description":"Talking is the easist of things gifted to all humans"
+},
+{
+	"AuthorID":21,
+	"Id":18,
+	"Name":"The promised land",
+	"Genre":"Suspense",
+	"Year":2019,
+	"Description":"44th President of the United States explains his tenure"
+},
+{
+	"AuthorID":22,
+	"Id":19,
+	"Name":"Naira",
+	"Genre":"Drama",
+	"Year":1998,
+	"Description":"Zimbabwean Legend Oliver Mutukudzi inspired"
+},
+{
+	"AuthorID":23,
+	"Id":20,
+	"Name":"Irreplaceble",
+	"Genre":"Romance",
+	"Year":2004,
+	"Description":"Beyonce's sequel to the ultimate hit song"
+},
+{
+	"AuthorID":24,
+	"Id":21,
+	"Name":"Miracle Maker",
+	"Genre":"Thriller",
+	"Year":1902,
+	"Description":"No description for book"
+},
+{
+	"AuthorID":29,
+	"Id":22,
+	"Name":"Tomorrow is not promised",
+	"Genre":"Thriller",
+	"Year":2005,
+	"Description":"N/A"
+},
+{
+	"AuthorID":2,
+	"Id":23,
+	"Name":"World War 1",
+	"Genre":"History",
+	"Year":1948,
+	"Description":"Historical on the emergence of the first world war "
+},
+{
+	"AuthorID":6,
+	"Id":24,
+	"Name":"Manifested with pride",
+	"Genre":"Drama",
+	"Year":1918,
+	"Description":"N/A"
+},
+{
+	"AuthorID":7,
+	"Id":25,
+	"Name":"I am tired",
+	"Genre":"Drama",
+	"Year":2022,
+	"Description":"N/A"
+},
+{
+	"AuthorID":29,
+	"Id":26,
+	"Name":"Finish Line",
+	"Genre":"Suspense",
+	"Year":1999,
+	"Description":"Strive to get there"
+},
+{
+	"AuthorID":8,
+	"Id":27,
+	"Name":"Time is money",
+	"Genre":"Insightful",
+	"Year":2008,
+	"Description":"Used as a metaphor but has a true meaning"
+},
+{
+	"AuthorID":21,
+	"Id":28,
+	"Name":"Nothing is free",
+	"Genre":"Suspense",
+	"Year":2008,
+	"Description":"N/A"
+},
+{
+	"AuthorID":2,
+	"Id":29,
+	"Name":"Make you mine",
+	"Genre":"Romance",
+	"Year":2006,
+	"Description":"Try till its yours"
+},
+{
+	"AuthorID":6,
+	"Id":30,
+	"Name":"Black Panther",
+	"Genre":"Thriller",
+	"Year":1908,
+	"Description":"Marvel Comics at its finest"
+}
+]

@@ -1,0 +1,119 @@
+[
+{
+    "Id":1,
+    "Name":"Shakespaere",
+    "YearOfBirth":1989,
+    "Country":"England"
+},
+{
+    "Id":2,
+    "Name":"Oliver Mutukudzi",
+    "YearOfBirth":1889,
+    "Country":"Ireland"
+},
+{
+    "Id":3,
+    "Name":"Danai",
+    "YearOfBirth":1999,
+    "Country":"Zimbabwe"
+},
+{
+    "Id":6,
+    "Name":"Mahomes",
+    "YearOfBirth":1962,
+    "Country":"USA"
+},
+{
+    "Id":22,
+    "Name":"Tonat",
+    "YearOfBirth":1899,
+    "Country":"Ukraine"
+
+},
+{
+    "Id":13,
+    "Name":"Snowchild",
+    "YearOfBirth":1992,
+    "Country":"Canada"
+},
+{
+    "Id":21,
+    "Name":"Narnia",
+    "YearOfBirth":1800,
+    "Country":"Greece"
+},
+{
+    "Id":15,
+    "Name":"Denzel",
+    "YearOfBirth":1994,
+    "Country":"USA"
+},
+{
+    "Id":16,
+    "Name":"Antotenkumba",
+    "YearOfBirth":1689,
+    "Country":"Greece"
+},
+{
+    "Id":29,
+    "Name":"Lordship",
+    "YearOfBirth":1845,
+    "Country":"USA"
+},
+{
+    "Id":18,
+    "Name":"Heero",
+    "YearOfBirth":1889,
+    "Country":"England"
+},
+{
+    "Id":4,
+    "Name":"Durant",
+    "YearOfBirth":1989,
+    "Country":"USA"
+},
+{
+    "Id":8,
+    "Name":"Harden",
+    "YearOfBirth":1983,
+    "Country":"Northern Irealand"
+},
+{
+    "Id":10,
+    "Name":"Irving",
+    "YearOfBirth":1979,
+    "Country":"USA"
+},
+{
+    "Id":9,
+    "Name":"Iyves",
+    "YearOfBirth":1953,
+    "Country":"USA"
+},
+{
+    "Id":24,
+    "Name":"LeBron",
+    "YearOfBirth":1979,
+    "Country":"Engald"
+},
+{
+    "Id":23,
+    "Name":"Weeknd",
+    "YearOfBirth":1969,
+    "Country":"Canada"
+},
+{
+    "Id":30,
+    "Name":"Drake",
+    "YearOfBirth":1777,
+    "Country":"Canada"
+},
+{
+    "Id":7,
+    "Name":"Slava",
+    "YearOfBirth":1883,
+    "Country":"Russia"
+}
+
+
+]
